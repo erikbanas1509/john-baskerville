@@ -18,14 +18,15 @@ body {
 
 /*---------------typography--------------*/
 
-h1,h2,h3{
+h1, h2, h3{
   font-weight: normal;
   color: #815BFF;
   text-align: center;
 
 }
-  p,blockquote{margin-button: 1.5em;
+  p, blockquote {margin; 1.5em;
   line-height:1.5;}
+
 h1 {font-size: 3.157em;
 margin-top:2em;
 margin-bottom: 0.1em;}
